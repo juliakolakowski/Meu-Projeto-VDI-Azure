@@ -14,7 +14,7 @@ Este repositório documenta a criação e configuração de uma máquina virtual
 
 A imagem abaixo mostra o ambiente inicial após a criação da máquina virtual e acesso via Remote Desktop. A VM está rodando Windows Server e exibe o **Server Manager**, onde é possível gerenciar funções, recursos e configurações do sistema.
 
-![Server Manager VM](./caminho/para/sua/primeira-imagem.jpeg)
+![Server Manager VM]![Image](https://github.com/user-attachments/assets/8292f445-159d-46fb-abbd-4d1c3cc3681f)
 
 ---
 
@@ -22,7 +22,7 @@ A imagem abaixo mostra o ambiente inicial após a criação da máquina virtual 
 
 Durante a tentativa de instalação do papel de Servidor Web (IIS), ocorreu uma falha na tarefa de pré-implantação:
 
-![Erro na Instalação do IIS](./caminho/para/sua/segunda-imagem.jpeg)
+![Erro na Instalação do IIS]![Image](https://github.com/user-attachments/assets/36495f1c-426e-4684-be67-dea477016231)
 
 > **Erro:** `The WS-Management service cannot process the request. The service is configured to not accept any remote shell requests.`  
 > Isso indica que a máquina virtual está configurada para não aceitar solicitações remotas via PowerShell, o que impediu a finalização da instalação.
